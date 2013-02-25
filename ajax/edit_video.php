@@ -17,6 +17,8 @@ $video->pre_tag = $_POST['pre_tag'];
 $video->tags = $_POST['tags'];
 $video->description = $_POST['description'];
 
+if($_POST['viewed']) { $video->viewed = $_POST['viewed'] ; }
+
 if($_POST['extre'] == 1){
 $video->extre = 1;
 } else {

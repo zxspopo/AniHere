@@ -1,6 +1,6 @@
 ﻿
       <div id="footer" style="text-align: center; font-size: 12px; color:#C0C0C0">
-        <p>&copy; <a href="http://cucanima.com/" target="_blank">中传动院作品库</a> & <a href="http://animetaste.org/" target="_blank">ANIMETASTE</a> | BOOTSTRAP | <a href="/about" target="_blank">ABOUT US</a> |  <a href="http://e.weibo.com/cucanima" class="sina">新浪微博</a> | <a href="http://www.miibeian.gov.cn" target="_blank">京ICP备12008886号</a><br />
+        <p>&copy; <a href="http://cucanima.com/" target="_blank">中传动院作品库</a> & <a href="http://animetaste.org/" target="_blank">ANIMETASTE</a> | BOOTSTRAP | <a href="https://github.com/GavinFoo/AniHere" target="_blank">GITHUB</a> | <a href="/about" target="_blank">ABOUT US</a> |  <a href="http://e.weibo.com/cucanima" class="sina">新浪微博</a> | <a href="http://www.miibeian.gov.cn" target="_blank">京ICP备12008886号</a><br />
         本站采用<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/" target="_blank" rel="license">知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议</a>进行许可。</p>
 <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/" target="_blank" rel="license"><img alt="知识共享许可协议" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/cn/80x15.png" /></a>
         <p>&nbsp;</p>
